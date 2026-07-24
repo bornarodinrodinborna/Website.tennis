@@ -1,7 +1,6 @@
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
 export default defineConfig({
-  site: 'https://rodin.sport',
-  output: 'static',
+  site: 'https://bornarodinrodborna.github.io',
+  base: '/Website.tennis/',
 });
